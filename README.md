@@ -1,5 +1,5 @@
 ---
-__title: Automated Lottery on the Blockchain
+__title: Automated Lottery on the Blockchain 🔥🔥🔥🔥🔥
 __subtitle: |
   trustless lotteries built on Verifiable Delay Functions\
   Mario A. Barbara
