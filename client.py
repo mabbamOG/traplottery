@@ -90,6 +90,8 @@ class VDF: # y = x^(2^Time) mod RSA-N
 class RSA:
     def Setup(Lambda):
         p, q = Primes.GetProbablePrime(Lambda//2), Primes.GetProbablePrime(Lambda//2)
+        while p==q:
+            q = Primes.GetProbablePrime(Lambda//2)
         N = p*q
         Totient = (p-1)*(q-1) # group order
         e = 65537 
