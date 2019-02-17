@@ -10,7 +10,7 @@ classoption: oneside
 fontsize: 9pt
 author:
 - "Mario A. Barbara"
-date: 16 February 2018
+date: 16 February 2019
 __abstract: "_this is an abstract_"
 output: 
   pdf_document:
@@ -58,7 +58,7 @@ Description
 : "Trustless Lottery w/ Verifiable Delay Functions"
 
 Author
-: Mario A. Barbara ^[16 February 2018 @ Eötvös Loránd University (ELTE), Budapest]
+: Mario A. Barbara ^[16 February 2019 @ Eötvös Loránd University (ELTE), Budapest]
 
 Working Implementation
 : <https://kovan.etherscan.io/address/0x23cacafb1f32c62b805b14fac3417f1e1e3fec98>
